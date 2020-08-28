@@ -1,0 +1,1 @@
+## Essa aplicação consiste em buscar a sua localização, informar como está a temperatura na sua região.
